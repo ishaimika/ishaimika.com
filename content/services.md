@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Services"
 date = 2016-02-24T00:00:00Z
 weight = 20
@@ -6,6 +7,6 @@ weight = 20
 name = "Services"
 url = "#Services"
 +++
-* Lightdesign and operator
+* Lightdesigner & operator
 * info@ishaimika.com
 
