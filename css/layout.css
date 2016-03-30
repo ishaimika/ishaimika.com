@@ -64,6 +64,10 @@ body > section#Services > article > main > ul > li {
 	width: 33%;
     padding: 0 0.35em;
 }
+body > section#Instagram > article > main > p > iframe {
+    display: block;
+    margin: 0 auto;
+}
 body > section#Services > article > main > ul > li:last-child {
     border-left: 1px solid;
     text-align: left;
