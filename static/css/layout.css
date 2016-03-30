@@ -1,0 +1,105 @@
+html,
+body {
+	height: 100%;
+	overflow-x: hidden;
+}
+body > header {
+	position: fixed;
+	margin: 0;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+body > header > h1 {
+	margin: 0;
+	font-size: 0;
+}
+body > header > h1 > a > img {
+	margin: 0;
+	height: 2cm;
+}
+body > nav {
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 20;
+	text-align: right;
+}
+body > nav li > a {
+	margin-left: 1em;
+	margin-right: 4em;
+}
+body > section > article > header > h1 {
+	text-align: center;
+}
+body > section > article > * {
+	width: 100%;
+	max-width: 40em;
+	margin: 0 auto;
+	padding: 1em;
+}
+body > section:first-of-type {
+	position: relative;
+	min-height: 100%;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 2cm;
+}
+body > section:first-of-type > article > main {
+	position: absolute;
+	left: 50%;
+	margin-left: -25%;
+	bottom: 5%;
+	width: 100%;
+}
+body > section#Services > article > main > ul {
+	display: table;
+	list-style-type: none;
+	padding-left: 0;
+	width: 100%;
+	font-size: 1.4em;
+}
+body > section#Services > article > main > ul > li {
+	display: table-cell;
+/*	text-align: center;*/
+	vertical-align: middle;
+	width: 33%;
+    padding: 0 0.35em;
+}
+body > section#Services > article > main > ul > li:last-child {
+    border-left: 1px solid;
+    text-align: left;
+}
+body > section#Services > article > main > ul > li:first-child {
+    text-align: right;
+}
+body > section > article > header,
+body > section > article > nav,
+body > section > article > footer {
+	display: none;
+}
+body > section:before {
+	display: block;
+	content: " ";
+	margin-top: -2cm;
+	height: 2cm;
+	visibility: hidden;
+}
+body > nav > ul li {
+	float: left;
+}
+body > nav > ul li > a {
+	text-decoration: none;
+	text-transform: lowercase;
+}
+@media (max-width: 40em) {
+	body > nav {
+		display: none;
+	}
+	body > section#Services > article > main > ul > li {
+		display: table-row;
+		width: 100%;
+		height: 2em;
+	}
+}

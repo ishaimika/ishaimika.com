@@ -1,0 +1,31 @@
+body > header {
+	background-color: rgba(0, 0, 0, 0.8);
+	border-bottom: rgba(0, 0, 0, 0.4) 1px solid;
+}
+body > nav li > a {
+	color: white;
+	font-weight: bold;
+}
+body > nav li > a.hover {
+	color: #7b1515;
+	background-color: rgba(0, 0, 0, 1.0);
+}
+body > section:first-of-type {
+	background-image: url("../img/Arash1.JPG");
+	background-attachment: scroll;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+body > section#Services > article {
+	background: #000000 ;
+	color: white;
+}
+body > section#Contact > article {
+	background: black;
+	color: #2e3436;
+}
+body > section#Instagram > article {
+	background: black;
+	color: white;
+}
