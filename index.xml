@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ishai Mika</title>
+    <link>http://ishaimika.com/</link>
+    <description>Recent content on Ishai Mika</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ishaimika.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://ishaimika.com/start/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishaimika.com/start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://ishaimika.com/services/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishaimika.com/services/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Lightdesign and operator&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;info@ishaimika.com&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instagram</title>
+      <link>http://ishaimika.com/instagram/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishaimika.com/instagram/</guid>
+      <description>&lt;!-- SnapWidget --&gt;
+
+&lt;p&gt;&lt;script src=&#34;http://snapwidget.com/js/snapwidget.js&#34;&gt;&lt;/script&gt;&lt;br /&gt;
+&lt;iframe src=&#34;http://snapwidget.com/in/?u=aXNoYWltaWthfGlufDIwMHw0fDN8fG5vfDV8bm9uZXxvblN0YXJ0fG5vfHllcw==&amp;ve=300316&#34; title=&#34;Instagram Widget&#34; class=&#34;snapwidget-widget&#34; allowTransparency=&#34;true&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:none; overflow:hidden; width:100%;&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
