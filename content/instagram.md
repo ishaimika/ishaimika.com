@@ -2,10 +2,5 @@
 title = "Instagram"
 date = 2016-02-24T00:00:00Z
 weight = 90
-[menu.main]
-name = "Instagram"
-url = "#Instagram"
 +++
-<!-- SnapWidget -->
-<script src="http://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="http://snapwidget.com/in/?u=aXNoYWltaWthfGlufDIwMHw0fDN8MDAwMDAwfHllc3wwfG5vbmV8b25TdGFydHxub3x5ZXM=&ve=300316" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+<iframe src="http://widget.websta.me/in/ishaimika/?s=100&w=4&h=3&b=0&bg=000000&p=10&sb=off" allowtransparency="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden;width:440px; height: 330px" ></iframe> <!-- websta - websta.me -->
