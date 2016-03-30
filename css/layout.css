@@ -35,7 +35,6 @@ body > section > article > header > h1 {
 }
 body > section > article > * {
 	width: 100%;
-	max-width: 40em;
 	margin: 0 auto;
 	padding: 1em;
 }
@@ -48,8 +47,6 @@ body > section:first-of-type {
 }
 body > section:first-of-type > article > main {
 	position: absolute;
-	left: 50%;
-	margin-left: -25%;
 	bottom: 5%;
 	width: 100%;
 }
