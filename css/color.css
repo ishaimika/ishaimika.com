@@ -3,7 +3,7 @@ body > header {
 	border-bottom: rgba(0, 0, 0, 0.4) 1px solid;
 }
 body > nav li > a {
-	color: white;
+	color: #000000;
 	font-weight: bold;
 }
 body > nav li > a.hover {
@@ -11,21 +11,13 @@ body > nav li > a.hover {
 	background-color: rgba(0, 0, 0, 1.0);
 }
 body > section:first-of-type {
-	background-image: url("../img/Arash3.jpg");
+	background-image: url("../img/arash3.jpg");
 	background-attachment: scroll;
 	background-size: cover;
 	background-position: center;
 	color: white;
 }
-body > section#Services > article {
-	background: #000000 ;
-	color: white;
-}
-body > section#Contact > article {
-	background: black;
-	color: #2e3436;
-}
-body > section#Instagram > article {
+body {
 	background: black;
 	color: white;
 }

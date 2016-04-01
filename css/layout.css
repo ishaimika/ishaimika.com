@@ -39,6 +39,7 @@ body > section > article > * {
 	padding: 1em;
 }
 body > section:first-of-type {
+    margin-top: 2cm;
 	position: relative;
 	min-height: 100%;
 	width: 100%;
@@ -67,6 +68,15 @@ body > section#Services > article > main > ul > li {
 body > section#Instagram > article > main > p > iframe {
     display: block;
     margin: 0 auto;
+    display: inline-block;
+    float: left;
+    padding-left: 20%;
+}
+body > section#Merit > article > main > p > iframe {
+    display: block;
+    margin: 0 auto;
+    float:right;
+    vertical-align: middle;    
 }
 body > section#Services > article > main > ul > li:last-child {
     border-left: 1px solid;
