@@ -11,7 +11,7 @@ body > nav li > a.hover {
 	background-color: rgba(0, 0, 0, 1.0);
 }
 body > section:first-of-type {
-	background-image: url("../img/Arash3.jpg");
+	background-image: url("../img/arash3.jpg");
 	background-attachment: scroll;
 	background-size: cover;
 	background-position: center;
