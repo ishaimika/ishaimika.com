@@ -65,19 +65,23 @@ body > section#Services > article > main > ul > li {
 	width: 33%;
     padding: 0 0.35em;
 }
-body > section#Instagram > article > main > p > iframe {
-    display: block;
-    margin: 0 auto;
-    display: inline-block;
-    float: left;
-    padding-left: 20%;
+body > section#Instagram,
+body > section#Merit {
+    margin: inherit auto;
+    width: 440px;
+}   
+@media (min-width: 880px) {
+    body > section#Instagram,
+    body > section#Merit {
+        display: inline-block;
+        width: 49%;
+        vertical-align: middle;
+    }
+    body > section#Instagram > article > main > p {
+        text-align: right;
+    }
 }
-body > section#Merit > article > main > p > iframe {
-    display: block;
-    margin: 0 auto;
-    float:right;
-    vertical-align: middle;    
-}
+
 body > section#Services > article > main > ul > li:last-child {
     border-left: 1px solid;
     text-align: left;
