@@ -10,6 +10,6 @@ Hoffmaestro - LD, OP (On selected dates) 2012 -
 
 Past
 Novemberlights 2015 - OP & Paperwork
-Tele2 Awards Afterparty 2016 - OP & Paperwork
+Tele2 Awards Afterparty 2015 - OP & Paperwork
 Safemode 2013 Frizon Festival - LD, OP & Videoprogrammer
 Raised Fist 2012 Swedish Summer tour - LD, OP & Videoprogrammer
