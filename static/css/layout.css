@@ -66,12 +66,13 @@ body > section#Services > article > main > ul > li {
     padding: 0 0.35em;
 }
 body > section#Instagram,
-body > section#Merit {
+body > section#Merit,
+body > section#Imgslide {
     margin: inherit auto;
     width: 440px;
 }   
 @media (min-width: 880px) {
-    body > section#Instagram,
+    body > section#Imgslide,
     body > section#Merit {
         display: inline-block;
         width: 49%;
@@ -79,6 +80,10 @@ body > section#Merit {
     }
     body > section#Instagram > article > main > p {
         text-align: right;
+    }
+    body > section#Imgslide > article > main > div {
+        text-align: right;
+        float: right;
     }
 }
 
