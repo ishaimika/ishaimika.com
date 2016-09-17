@@ -5,10 +5,10 @@ weight = 100
 +++
 Ongoing
 Arash - LD, OP 2013 -
-Raised Fist - LD, OP 2015 -
 Hoffmaestro - LD, OP (On selected dates) 2012 -
 
 Past
+Raised Fist 2015 Swedish Festival & Club Tour - LD & OP
 Novemberlights 2015 - OP & Paperwork
 Tele2 Awards Afterparty 2015 - OP & Paperwork
 Safemode 2013 Frizon Festival - LD, OP & Videoprogrammer
