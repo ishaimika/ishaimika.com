@@ -15,6 +15,7 @@ Popaganda Festival 2016 - OP
 The Island Festival 2016 - OP
 Bråvalla Festival 2016 Juno Stage - LD, OP & Paperwork
 Tons Of Rock 2016 Main Stage - LD, OP & Paperwork
+Sweden Rock Festival 2016 Main Stage - LD
 Snövit The Musical Tour 2016 - OP (LD Palle Palme)
 Raised Fist 2015 Swedish Festival & Club Tour - LD & OP
 Novemberlights 2015 - OP & Paperwork
