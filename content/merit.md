@@ -3,14 +3,14 @@ title = "Merit"
 date = 2016-02-24T00:00:00Z
 weight = 100
 +++
-Ongoing:
+#### Ongoing:
 Arash - LD, OP 2013 -
-    Various tours in N. America, Europe, Asia and Australia.
+Various tours in N. America, Europe, Asia and Australia.
 
 Hoffmaestro - LD, OP (On selected dates) 2012 -
-    Various shows in Sweden and Europe.
+Various shows in Sweden and Europe.
 
-Past:
+#### Past:
 Popaganda Festival 2016 - OP
 The Island Festival 2016 - OP
 Bråvalla Festival 2016 Juno Stage - LD, OP & Paperwork
