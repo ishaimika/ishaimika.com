@@ -6,3 +6,16 @@ blackfriday:
   extensions:
     - hardLineBreak
 theme: hugo-theme-html5
+params:
+  Logotype: "img/ishaimika-logo-horizontal-black.svg"
+  CSS:
+    - css/text.css
+    - css/color.css
+    - css/layout.css
+    - css/form.css
+    - css/imgslide.css
+  ListMode: "full"
+  FrontPageMode: "full"
+  FrontPageSection: "index"
+  NavigationInHeader: true
+googleAnalytics: "UA-76225764-1"
