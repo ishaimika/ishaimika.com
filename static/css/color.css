@@ -1,5 +1,5 @@
 body > header {
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 1);
 	border-bottom: rgba(0, 0, 0, 0.4) 1px solid;
 }
 body > header > nav li > a {
@@ -10,14 +10,26 @@ body > header > nav li > a.hover {
 	color: #7b1515;
 	background-color: rgba(0, 0, 0, 1.0);
 }
-body > main > section:first-of-type {
-	background-image: url("../img/rf3.jpg");
+body {
+	background-image: url("../img/v1.2/background/background1.jpg");
 	background-attachment: scroll;
 	background-size: cover;
 	background-position: center;
-	color: white;
+	/* color: white; */
+	/*-webkit-filter: blur(4px);filter: blur(4px);*/
 }
-body {
+/*
+body > main > section:first-of-type {
 	background: black;
 	color: white;
 }
+*/
+section#merit > figure a,
+section#merit > figure a:link,
+section#merit > figure a:visited,
+section#merit > figure a:hover,
+section#merit > figure a:active
+ {
+	 color: black;
+}
+

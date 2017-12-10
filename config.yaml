@@ -7,13 +7,15 @@ blackfriday:
     - hardLineBreak
 theme: hugo-theme-html5
 params:
-  Logotype: "img/ishaimika-logo-horizontal-black.svg"
+  Logotype: "img/v1.2/intro/intro2.jpg"
   CSS:
     - css/text.css
     - css/color.css
     - css/layout.css
     - css/form.css
     - css/imgslide.css
+    - css/imgintro.css
+    - css/merit.css
   ListMode: "full"
   FrontPageMode: "full"
   FrontPageSection: "index"

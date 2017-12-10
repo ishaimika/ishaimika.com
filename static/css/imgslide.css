@@ -1,7 +1,7 @@
-    /**
+/**
  * Image slider with pure CSS
  * Original version in http://demosthenes.info/blog/css
- */
+
 
 .image-slider {
 	position:relative;
@@ -10,7 +10,7 @@
 }
 
 /* Could use a pseudo-element, but they’re currently
-   super buggy. See: http://dabblet.com/gist/ab432c3f6a8f672cd077 */
+   super buggy. See: http://dabblet.com/gist/ab432c3f6a8f672cd077
 .image-slider > div {
 	position: absolute;
 	top: 0; bottom: 0; left: 0;
@@ -18,11 +18,11 @@
 	max-width: 100%;
 	overflow: hidden;
 	resize: horizontal;
-/*    border-right: solid 1px black;*/
+/*    border-right: solid 1px black;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 1)
 }
 
-/* Cross-browser resizer styling */
+/* Cross-browser resizer styling 
 .image-slider > div:before {
 	content: '';
 	position: absolute;
@@ -40,4 +40,3 @@
 	user-select: none;
 	max-width: 440px;
 }
-	

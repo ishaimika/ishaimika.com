@@ -1,0 +1,103 @@
+
+section#merit > figure img {
+  /* width: 100%;
+	height: auto; */
+	max-width: 100%;
+	max-height: 100%;
+	width: auto;
+	height: auto;
+}
+/*
+section#merit > figure:hover > img {
+	opacity: 0.3;
+	filter: alpha(opacity=30);
+} */
+
+section#merit > figure figcaption {
+	opacity: 0;
+	width: 100%;
+	padding: 15px;
+	text-align: left;
+	position: absolute;
+	bottom: 5.5px;
+}
+section#merit > figure:hover figcaption {
+	opacity: 1;
+	background-color:rgba(255, 255, 255, 0.5);
+	height: 97%;
+	transition: all 0.3s ease-in-out;
+}
+
+section#merit * {
+	box-sizing: border-box;
+}
+
+section#merit figure {
+	float: left;
+	width: 24.99999%;
+	display: block;
+	position: relative;
+	margin-bottom: -5.5px;
+}
+
+@media only screen and (max-width: 1000px){
+	section#merit figure {
+		width: 49.99999%;
+	}
+}
+
+@media only screen and (max-width: 700px){
+	section#merit figure {
+		width: 100%;
+	}
+}
+
+.clearfix:after {
+		content: "";
+		display: table;
+		clear: both;
+}
+
+/* Nytt */
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}

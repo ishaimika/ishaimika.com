@@ -1,11 +1,20 @@
 {{ define "main" }}
 		<main class="list index">
+			<center>Light designer & operator | info@ishaimika.com</center>
+		<!--	<section id="merit">
+{{ range where .Data.Pages "Section" "merit" }}
+				<figure>
+					<a href="{{ .Permalink }}">
+					<img src="{{ .Params.image }}" alt="{{ .Title }}" /><figcaption><p>{{ .Title }} {{ .Params.intervall }}<br>{{ .Params.description }}</p></figcaption></a>
+				</figure>
+{{ end }}
+			</section>
 {{ range where .Data.Pages "Section" .Site.Params.FrontPageSection }}
 			<section id="{{ .LinkTitle }}">
 				<article>
 {{ partial "article" (dict "article" . "mode" $.Site.Params.ListMode) }}
 				</article>
 			</section>
-{{ end }}
+{{ end }} -->
 		</main>
 {{ end }}
