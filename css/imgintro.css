@@ -1,0 +1,10 @@
+.image-intro img {
+  max-width: 70%;
+	margin: auto;
+	/* margin-top: 2cm; */
+	position: relative;
+/*	min-height: 100vh; /* här har vi problem */
+	width: 100%;
+	text-align: center;
+	padding-bottom: 2cm;
+}
